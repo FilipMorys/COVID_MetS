@@ -1,1 +1,1 @@
-Script to analyze UKBB data with respect to COVID and metabolic syndrome
+Script to analyze UKBB data with respect to COVID and metabolic health
